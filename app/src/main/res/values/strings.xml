@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScudGO</string>
+    <string name="getStarted">Get Started Now</string>
+    <string name="phoneNumber">Please Enter Phone Number</string>
+    <string name="otprequest">Request OTP</string>
+    <string name="verifyMessage">By Verifying, I accept scudgo\'s</string>
+    <string name="termsText"><![CDATA[Terms & Conditions]]></string>
+    <string name="otpmessage">OTP messages might take a while because of network.</string>
+    <string name="travellingText">Travelling Solo? Not anymore</string>
+    <string name="travellingmoreText">If you make friends with your co-riders you will never be alone.</string>
+    <string name="couriersafety">Carpooling has always been a great commuting option that saves money.</string>
+    <string name="ridesafety">Ride Safety</string>
+    <string name="couriersafetytitle">Courier Safety</string>
+    <string name="couriersafetydesc">Reduce your in-house overhead by outsourcing your transport needs with scud-Go</string>
+    <string name="Riders">Riders</string>
+    <string name="Riderstaken">Rides Taken</string>
+</resources>

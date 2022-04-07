@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/b_navigation_home"
+        android:icon="@drawable/chat"
+        android:title="home" />
+
+    <item
+        android:id="@+id/b_navigation_rides"
+        android:icon="@drawable/chat"
+        android:title="rides" />
+
+    <item
+        android:id="@+id/b_navigation_couriers"
+        android:icon="@drawable/chat"
+        android:title="couriers" />
+
+    <item
+        android:id="@+id/b_navigation_chat"
+        android:icon="@drawable/chat"
+        android:title="chat" />
+
+    <item
+        android:id="@+id/b_navigation_account"
+        android:icon="@drawable/chat"
+        android:title="account" />
+
+</menu>
